@@ -4,7 +4,7 @@
 ### _AI-Powered Enrichment Camp Finder_
 
 > **Discover. Classify. Connect.**  
-> AI meets opportunity — helping students find summer and academic programs that match their passions, affordability, and eligibility.
+> AI meets opportunity - helping students find summer and academic programs that match their passions, affordability, and eligibility.
 
 <img src="https://img.shields.io/badge/status-Prototype_v0.9-green?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/platform-Flutter_|_Web-blueviolet?style=for-the-badge&logo=flutter" />
