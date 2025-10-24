@@ -36,7 +36,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 
 ###  Data Pipeline
 
-1. **DuckDuckGo Search API** → Finds official university program URLs.  
+1. **DuckDuckGo Search API** → Finds official university and other institutional camps & program URLs.  
 2. **BeautifulSoup** → Parses HTML and extracts text fields.  
 3. **Llama-3** → Classifies and structures descriptions into labeled attributes.  
 4. **Pandas** → Cleans, deduplicates, and merges all data for upload.
