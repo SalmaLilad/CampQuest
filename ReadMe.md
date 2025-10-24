@@ -32,7 +32,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 ##  Prototype · v1.1.2
 
 **Current Dataset:** `967 verified camps`  
-**Stage:** Initial prototype — functional scraping and structured database.
+**Stage:** Initial prototype — functional scraping and structured database. Working prototype for Camps in all categories in the State of Minnesota completed.
 
 ###  Data Pipeline
 
