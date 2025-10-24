@@ -45,7 +45,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 
 | Field | Example | Description |
 |--------|----------|-------------|
-| **Name** | MIT Beaver Summer Institute Summer Program | Program title |
+| **Name** | MIT Beaver Works Summer Institute Summer Program | Program title |
 | **Institution** | MIT | Hosting organization |
 | **Main Category** | STEM | Broad field |
 | **Subject 1 / Subject 2** | AI, Robotics | Specialized focus areas |
