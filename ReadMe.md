@@ -13,7 +13,7 @@
 
 ---
 
-🎨 **Theme Colors:** Red–Purple Accent · Consistent with [salmalilad.github.io](https://salmalilad.github.io)  
+ 
 🌎 **Mission:** Make enrichment opportunities accessible, searchable, and equitable.
 
 </div>
