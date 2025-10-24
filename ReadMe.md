@@ -50,12 +50,12 @@ By combining **structured search**, **AI classification**, and **natural-languag
 | **Main Category** | STEM | Broad field |
 | **Subject 1 / Subject 2** | AI, Robotics | Specialized focus areas |
 | **Dates** | June 7 – August 1, 2025 | Duration |
-| **Cost** | $1,500 | Tuition |
+| **Cost** | Free for Family Income below 150K else $2,450 | Tuition |
 | **Eligibility** | Grades 9–12 | Target age/grade range |
 | **Selectivity** | High | Admission difficulty |
 | **Application Deadline** | March 31, 2025 | Last date to apply |
 | **Prerequisites** | Basic Python | Complete online Course Work |
-| **Target Audience** | Open to everyone | Intended demographic or access focus |
+| **Target Audience** | Open to everyone in the US | Intended demographic or access focus |
 | **Description** | AI camp combining coding and teamwork | Short summary |
 | **URL** | https://beaverworks.mit.edu | Official link |
 
