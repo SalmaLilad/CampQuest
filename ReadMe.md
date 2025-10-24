@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏕️ **CampQuest**
+#  **CampQuest**
 ### _AI-Powered Enrichment Camp Finder_
 
 > **Discover. Classify. Connect.**  
@@ -14,13 +14,13 @@
 ---
 
  
-🌎 **Mission:** Make enrichment opportunities accessible, searchable, and equitable.
+ **Mission:** Make enrichment opportunities accessible, searchable, and equitable.
 
 </div>
 
 ---
 
-## 💡 Vision
+##  Vision
 
 > **Equal access to opportunity.**  
 > CampQuest bridges AI and education to make every learning opportunity — from MIT to local community colleges — discoverable to all students, regardless of income, gender, or background.
@@ -29,19 +29,19 @@ By combining **structured search**, **AI classification**, and **natural-languag
 
 ---
 
-## 🚧 Prototype · v0.9
+##  Prototype · v0.9
 
 **Current Dataset:** `967 verified camps`  
 **Stage:** Initial prototype — functional scraping and structured database.
 
-### 🧠 Data Pipeline
+###  Data Pipeline
 
 1. **DuckDuckGo Search API** → Finds official university program URLs.  
 2. **BeautifulSoup** → Parses HTML and extracts text fields.  
 3. **Llama-3** → Classifies and structures descriptions into labeled attributes.  
 4. **Pandas** → Cleans, deduplicates, and merges all data for upload.
 
-### 🗂️ Schema (Current Fields)
+###  Schema (Current Fields)
 
 | Field | Example | Description |
 |--------|----------|-------------|
@@ -59,30 +59,30 @@ By combining **structured search**, **AI classification**, and **natural-languag
 | **Description** | AI camp combining coding and teamwork | Short summary |
 | **URL** | https://beaverworks.mit.edu | Official link |
 
-🗃️ **Storage:**  
+ **Database & Storage:**  
 Data synced to **Firebase Firestore** for real-time querying and live updates.
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 
-### 🗺️ **National Data Expansion**
+###  **National Data Expansion**
 - Add state-based queries for geographic diversity (`"summer camp site:edu California"`, `"AI camp site:edu Texas"`, etc.).  
 - Target: **≥20 verified camps per state**.  
 - Introduce a `state` field and coordinate mapping (for future visualization).
 
-### 📱 **Mobile App Development (Android & iOS)**
+###  **Mobile App Development (Android & iOS)**
 **Framework:** Flutter  
 **Backend:** Firebase Firestore + Python Cloud Functions  
 
 **Planned Features**
-- 🔍 Search and filter by cost, category, subject  
-- 🧭 Offline caching  
-- ❤️ Favorite and bookmark camps  
-- 🔐 Firebase Auth user login  
-- 🔄 Real-time data sync on updates
+-  Search and filter by cost, category, subject  
+-  Offline caching  
+-  Favorite and bookmark camps  
+-  Firebase Auth user login  
+-  Real-time data sync on updates
 
-### 🌐 **Searchable Web App**
+###  **Searchable Web App**
 **Tech:** Next.js / React + Supabase  
 - Fast filters and advanced search  
 - Institution & subject-based navigation  
@@ -91,14 +91,14 @@ Data synced to **Firebase Firestore** for real-time querying and live updates.
 
 ---
 
-## 🤖 Future Extension · Mini RAG Chatbot
+##  Future Extension · Mini RAG Chatbot
 
-### 🧩 Concept
+###  Concept
 A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural queries like:  
 > “Find affordable AI programs for girls in high school.”  
 > “Which camps in Texas offer scholarships?”
 
-### 🧠 Architecture
+###  Architecture
 
 | Layer | Tool | Purpose |
 |--------|------|----------|
@@ -108,7 +108,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 | **Generator** | LLM summarization | Writes user-friendly responses |
 | **Frontend** | Flutter Chat UI | Interactive chatbot experience |
 
-### ⚙️ RAG Flow
+###  RAG Flow
 1. Convert user query → embedding  
 2. Retrieve top N matching camps via vector similarity  
 3. Combine structured filters (`cost < 2000`, `eligibility LIKE '%high school%'`)  
@@ -123,7 +123,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 ---
 
-## 🧱 Tech Stack Summary
+##  Tech Stack Summary
 
 | Category | Tool / Library |
 |-----------|----------------|
@@ -139,24 +139,24 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 | Phase | Status | Focus |
 |--------|---------|--------|
-| **Prototype v0.9** | ✅ | Data pipeline + 967 camps |
-| **50-State Coverage** | 🚧 | 1,000–2,000 verified camps |
-| **App + Web Interfaces** | 🔜 | Public searchable database |
-| **AI Chatbot (RAG)** | 🔮 | Conversational camp recommender |
+| **Prototype v0.9** | Completed | Data pipeline + 967 camps |
+| **50-State Coverage** | Planned  | 1,000–2,000 verified camps |
+| **App + Web Interfaces** | Future | Public searchable database |
+| **AI Chatbot (RAG)** | Future | Conversational camp recommender |
 
 ---
 
 <div align="center">
 
 **Created by [Saanvi](https://github.com/SalmaLilad)**  
-🎓 Wayzata High School · Applied AI & Computing Portfolio  
+ Wayzata High School · Applied AI & Computing Portfolio  
 
-🌐 [Portfolio Website](https://salmalilad.github.io)  
-💬 _“Learning should be searchable.”_
+ [Portfolio Website](https://salmalilad.github.io)  
+ _“Learning should be searchable.”_
 
 </div>
 
