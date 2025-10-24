@@ -54,7 +54,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 | **Eligibility** | Currently in Grades 9–11 | Target age/grade range |
 | **Selectivity** | High | Admission difficulty |
 | **Application Deadline** | March 31, 2025 | Last date to apply |
-| **Prerequisites** | Basic Python | Complete online Course Work |
+| **Prerequisites** | Basic Python | Complete online course work |
 | **Target Audience** | Open to everyone in the US | Intended demographic or access focus |
 | **Description** | AI camp combining coding and teamwork | Short summary |
 | **URL** | https://beaverworks.mit.edu | Official link |
