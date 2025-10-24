@@ -50,7 +50,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 | **Main Category** | STEM | Broad field |
 | **Subject 1 / Subject 2** | AI, Robotics | Specialized focus areas |
 | **Dates** | June 7 – August 1, 2025 | Duration |
-| **Cost** | Free for Family Income below 150K else $2,450 | Tuition |
+| **Cost** | Free for Family Income below 150K else $2,350 | Tuition |
 | **Eligibility** | Currently in Grades 9–11 | Target age/grade range |
 | **Selectivity** | High | Admission difficulty |
 | **Application Deadline** | March 31, 2025 | Last date to apply |
