@@ -154,7 +154,11 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 **Saanvi ([@SalmaLilad](https://github.com/SalmaLilad))**  
 Exploring fairness, ethics, and transparency in real-world machine learning applications.<div align="center">
 
- _“Learning should be searchable.”_
+---
+
+>  _Learning should be searchable.”_
+
+
 
 </div>
 
