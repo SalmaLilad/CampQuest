@@ -23,7 +23,7 @@
 ##  Vision
 
 > **Equal access to opportunity.**  
-> CampQuest bridges AI and education to make every learning opportunity from MIT to local community colleges discoverable to all students, regardless of income, gender, or background.
+> CampQuest bridges AI and education to make every learning opportunity, from MIT to local community colleges discoverable to all students, regardless of income, gender, or background.
 
 By combining **structured search**, **AI classification**, and **natural-language retrieval**, CampQuest aims to become the national directory for verified enrichment programs, empowering students to explore, compare, and apply confidently.
 
