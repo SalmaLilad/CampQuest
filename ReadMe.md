@@ -29,7 +29,7 @@ By combining **structured search**, **AI classification**, and **natural-languag
 
 ---
 
-##  Prototype · v0.9
+##  Prototype · v1.1.2
 
 **Current Dataset:** `967 verified camps`  
 **Stage:** Initial prototype — functional scraping and structured database.
