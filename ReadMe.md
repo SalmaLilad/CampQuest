@@ -117,7 +117,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 **Example Output:**
 > “Here are affordable AI camps near Boston:  
-> • **MIT Beaver Works AI Bootcamp** ($1500, Grades 9–12, deadline Mar 1)  
+> • **MIT Beaver Works Summer Institute Proggram** (Free if Family income < 150,000 else $2350, Grades 9–12, deadline Mar 31)  
 > • **BU TechLab Robotics Program** ($900, Grades 9–11)  
 > • **Northeastern STEM Scholars** ($1200, Grades 10–12)”
 
