@@ -1,7 +1,7 @@
 <div align="center">
 
 #  **CampQuest**
-### _AI-Powered Enrichment Camp Finder_
+### _AI-Powered Summer Enrichment Camps and Pre-College Programs Finder_
 
 > **Discover. Classify. Connect.**  
 > AI meets opportunity - helping students find summer and academic programs that match their passions, affordability, and eligibility.
