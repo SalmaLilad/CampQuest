@@ -150,12 +150,10 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 ---
 
-<div align="center">
+##  Author  
+**Saanvi ([@SalmaLilad](https://github.com/SalmaLilad))**  
+Exploring fairness, ethics, and transparency in real-world machine learning applications.<div align="center">
 
-**Created by [Saanvi](https://github.com/SalmaLilad)**  
- Wayzata High School · Applied AI & Computing Portfolio  
-
- [Portfolio Website](https://salmalilad.github.io)  
  _“Learning should be searchable.”_
 
 </div>
