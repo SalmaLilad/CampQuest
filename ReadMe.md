@@ -143,7 +143,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 | Phase | Status | Focus |
 |--------|---------|--------|
-| **Prototype v0.9** | Completed | Data pipeline + 967 camps |
+| **Prototype v1.1.2** | Completed | Data pipeline + 967 camps |
 | **50-State Coverage** | Planned  | 1,000–2,000 verified camps |
 | **App + Web Interfaces** | Future | Public searchable database |
 | **AI Chatbot (RAG)** | Future | Conversational camp recommender |
