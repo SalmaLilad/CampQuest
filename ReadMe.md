@@ -6,7 +6,7 @@
 > **Discover. Classify. Connect.**  
 > AI meets opportunity - helping students find summer and academic programs that match their passions, affordability, and eligibility.
 
-<img src="https://img.shields.io/badge/status-Prototype_v0.9-green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/status-Prototype_v1.1.2-green?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/platform-Flutter_|_Web-blueviolet?style=for-the-badge&logo=flutter" />
 <img src="https://img.shields.io/badge/database-Firebase_|_Supabase-red?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/AI-Llama3_|_OpenAI-purple?style=for-the-badge&logo=openai" />
