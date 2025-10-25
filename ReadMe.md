@@ -156,7 +156,7 @@ Exploring fairness, ethics, and transparency in real-world machine learning appl
 
 ---
 
-  >  *“Learning should be searchable."*
+  >  *Learning should be searchable*
 
 
 </div>
