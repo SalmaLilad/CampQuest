@@ -152,7 +152,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 
 ##  Author  
 **Saanvi ([@SalmaLilad](https://github.com/SalmaLilad))**  
-Exploring fairness, ethics, and transparency in real-world machine learning applications.<div align="center">
+Exploring fairness, ethics, and transparency in real-world machine learning applications.
 
 ---
 ##  AI Assistance Disclosure
