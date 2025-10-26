@@ -155,6 +155,12 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that understands natural quer
 Exploring fairness, ethics, and transparency in real-world machine learning applications.<div align="center">
 
 ---
+##  AI Assistance Disclosure
+
+This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality.  
+All project code, architecture, and experimental results were designed, implemented, and verified by me. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
+
+---
 
   >  *Learning should be searchable*
 
